@@ -178,14 +178,14 @@ h5 {
 /* Smaller images for mobile devices */
 @media (max-width: 768px) {
     .swiper-slide img {
-        width: 70%; /* Adjust the width as needed */
+        width: 80%; /* Adjust the width as needed */
         height: auto;
     }
 }
 
 @media (max-width: 480px) {
     .swiper-slide img {
-        width: 50%; /* Adjust the width as needed */
+        width: 60%; /* Adjust the width as needed */
         height: auto;
     }
 }
